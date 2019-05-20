@@ -1,6 +1,6 @@
 package com.ai.gof.creational.simplefactory;
 
-public class VideoFactory extends Main {
+public class VideoFactory {
 
     public Video getVideo(Class c){
         Video video = null;

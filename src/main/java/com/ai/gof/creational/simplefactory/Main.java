@@ -1,5 +1,8 @@
 package com.ai.gof.creational.simplefactory;
 
+/**
+ * 简单工厂模式
+ */
 public class Main {
 
     public static void main(String[] args) {
